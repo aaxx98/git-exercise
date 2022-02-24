@@ -1,2 +1,2 @@
 # git-exercise
-git exercise
+git exercise edit
